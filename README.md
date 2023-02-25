@@ -1,1 +1,2 @@
-# React_Ecommerce_Site
+# React Ecommerce Site
+Build and Deploy a Fully Responsive Ecommerce React Application with Stripe:  
