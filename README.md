@@ -1,4 +1,4 @@
-# React Ecommerce Site Coming Soon - Final Tweaks
+# React Ecommerce Site 
 
 Build and Deploy a Fully Responsive Ecommerce React Application with Stripe:  
 
