@@ -1,6 +1,6 @@
 # React Ecommerce Site 
 
-Build and Deploy a Fully Responsive Ecommerce React Application with Stripe:  
+Functional, Responsive and Professional Ecommerce Application  built with the React framework and intergrated with Stripe API
 
 <img src="product-layout.png" alt="Alt text">
 <img src="product-description.png" alt="Alt text">
